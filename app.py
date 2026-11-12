@@ -9,7 +9,7 @@ st.set_page_config(
     layout="wide"
 )
 
-MODEL_PATH = "models/fake_news_pipeline.pkl"
+MODEL_PATH = "fake_news_pipeline.pkl"
 
 st.title("📰 Fake News Detection System")
 st.write("Machine Learning Based News Classification")
